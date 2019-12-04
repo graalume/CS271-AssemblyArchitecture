@@ -1,4 +1,4 @@
-; TITLE: um and Average Calculator			FILE: (Project6a-931810401.asm)
+; TITLE: Num and Average Calculator			FILE: (Project6a-931810401.asm)
 
 ; AUTHOR: Elizabeth Graalum				EMAIL:	graalume@oregonstate.edu
 ; COURSE / PROJECT ID: CS271 / Project 6a	DATE:	December 2nd, 2018
