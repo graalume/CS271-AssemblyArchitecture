@@ -3,7 +3,7 @@
 ; Author: Elizabeth Graalum	Email: (graalume@oregonstate.edu)
 ; Course / Project ID: CS271-400 / project #1      Date: Sept. 30, 2018
 ; Description: this project will prompt the user to input two
-; numbers and then it will display the sum, difference, product, 
+; numbers and then it will display the sum, differencem product, 
 ; and quotient (with the remainder) of the numbers.
 
 INCLUDE Irvine32.inc
